@@ -9,3 +9,6 @@ Analisis dilakukan menggunakan dataset penjualan pizza selama satu tahun (2015) 
 07 Temuan Utama	4 finding card dengan insight bisnis
 08 Rekomendasi	5 strategi berjenjang prioritas tinggi-sedang-rendah
 09 Kesimpulan	Paragraf ringkasan + estimasi kenaikan revenue
+
+<img width="1122" height="575" alt="pizza_sales" src="https://github.com/user-attachments/assets/556892c0-af4e-4000-8d80-ec08935b2a0c" />
+
